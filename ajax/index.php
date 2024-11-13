@@ -75,7 +75,7 @@ include('auth.php');
         <div class="data"></div>
     </div>
     <div class="text-center">&copy; <?php echo date('Y'); ?> Copyright -
-        <a href="https://google.com">Desain Dan Pemrograman Web</a>
+        <a href="https://github.com/afgangalih/PHPMYSQL/tree/main">Desain Dan Pemrograman Web</a>
     </div>
 
     <!-- JQuery -->
